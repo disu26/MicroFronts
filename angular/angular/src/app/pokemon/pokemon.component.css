@@ -1,0 +1,50 @@
+#input {
+  margin-top: 30px;
+  margin-left: 30px;
+  width: 500px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#button {
+  width: 150px;
+  margin-top: 10px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 900;
+  color: white;
+  background-color: black;
+}
+
+#image {
+  width: 250px;
+  height: 250px;
+}
+
+#navbar {
+  text-align: center;
+}
+h5 {
+  font-weight: 900;
+  font-size: large;
+}
+
+#li {
+  font-weight: 900;
+  color: red;
+}
+
+h6 {
+  font-weight: 900;
+  font-size: large;
+  color: red;
+}
+#span{
+  margin-left: 50px;
+}
+
+div{
+  text-align: center;
+  align-items: center;
+  margin-left: 50px;
+}
